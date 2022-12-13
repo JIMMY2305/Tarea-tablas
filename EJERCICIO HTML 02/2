@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>"Ejercicio 02/2 - Tablas en HTML"</title>
+    </head>
+    <body>
+        <table>
+            <tr>
+                <th>Título</th>
+                <th>Autor</th>
+                <th>Año de publicación</th>
+                <th>Enlace a Amazon</th>
+            </tr>
+            <tr>
+                <td>Morir Otra Vez</td>
+                <td>Alberto Martínez Sánchez</td>
+                <td>2022</td>
+                <td>
+                    <a href="https://www.amazon.es/dp/B09QP9NKCR/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=c881c52c625386901ecf0b30fa0f58f2&content-id=amzn1.sym.3b9d91fa-1778-49d9-af21-be060538272b%3Aamzn1.sym.3b9d91fa-1778-49d9-af21-be060538272b&hsa_cr_id=4307914390002&pd_rd_plhdr=t&pd_rd_r=57a99629-5c2b-4f16-9c5a-b376c9752692&pd_rd_w=lV21t&pd_rd_wg=ZPl9X&qid=1670966459&ref_=sbx_be_s_sparkle_mcd_asin_1_img&sr=1-2-e0fa1fdd-d857-4087-adda-5bd576b25987">Enlace Amazon</a>
+                </td>
+            </tr>
+            <tr>
+                <td>Cementerio de Animales</td>
+                <td>Stephen King</td>
+                <td>2012</td>
+                <td>
+                    <a href="https://www.amazon.es/Cementerio-animales-Stephen-King-ebook/dp/B009MBC0I8/ref=sr_1_10?keywords=libros+de+terror&qid=1670966459&sr=8-10">Enlace Amazon</a>
+                </td>
+            </tr>
+            <tr>
+                <td>La Emperatriz de las Ratas</td>
+                <td>Andrés Díaz Sánchez</td>
+                <td>2011</td>
+                <td>
+                    <a href="https://www.amazon.es/Emperatriz-Ratas-Relatos-Terror-Locura-ebook/dp/B08L67RHFJ/ref=sr_1_58_sspa?keywords=libros+de+terror&qid=1670966459&sr=8-58-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9idGY&psc=1">Enlace Amazon</a>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
