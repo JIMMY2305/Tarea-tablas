@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+}
+.contenedor {
+    display: flex;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    gap: 3rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.seccion {
+    background-color: cornflowerblue;
+
+
+}
+.seccion1  {
+    display: flex;
+    flex-grow: 1;
+    align-self: center;
+    padding: 5rem;
+    width: 30%;
+    background-color: hsl(69, 91%, 66%);
+}
+.secundaria1 ,.secundaria2 ,.secundaria3 {
+    display: flex;
+    flex-direction: column;
+    align-items: safe;
+    background-color: hsl(69, 91%, 66%);
+    padding: 2.5rem;
+    width: 70%;
+    margin: 5px;
+}
+
+@media (max-width:640px){
+    .contenedor{
+        flex-direction:column-reverse;
+    }
+}
