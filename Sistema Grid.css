@@ -1,0 +1,26 @@
+html {
+    background-color: black;
+
+}
+.uno{
+    background-color: aqua;
+}
+.dos{
+    background-color: rgb(230, 138, 62);
+}
+.tres{
+    background-color: rgb(73, 141, 241);
+}
+.cuatro{
+    background-color: rgb(224, 52, 132);
+}
+.cinco{
+    background-color: rgb(170, 235, 118);
+}
+.seis{
+    background-color: rgb(132, 199, 238);
+}
+.row {
+    text-align: center;
+    
+}
